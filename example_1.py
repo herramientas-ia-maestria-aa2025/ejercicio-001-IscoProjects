@@ -1,3 +1,5 @@
+#Leer el archivo informacion.txt
+
 def read_lines(file_name):
     try:
         # Abrimos el archivo "informacion.txt" en modo lectura ('r')
